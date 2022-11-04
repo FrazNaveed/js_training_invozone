@@ -1,0 +1,9 @@
+this
+bind()
+strict mode
+callbacks
+promises
+async/await
+event loop
+streams
+buffers
